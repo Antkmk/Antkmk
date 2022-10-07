@@ -10,7 +10,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][Twitter-shield]][Twitter-url]
 [![Facebook][Facebook-shield]][Facebook-url]
-[![Facebook][OBA-shield]][OBA-url]
+[![OBA][OBA-shield]][OBA-url]
 
 <!-- PROJECT LOGO -->
 <br />
