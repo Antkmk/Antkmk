@@ -22,13 +22,11 @@
   <h3 align="center">One Bad Ant Unity Business App Template</h3>
 
   <p align="center">
-    Stay tuned...
+    OBA's basic app architecture for beginning a new "business-focused" app. Includes basic navigation, app services, features, prefabs, scripts, and scenes.
     <br />
     <a href="https://github.com/Antkmk/UnityBATemplate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Antkmk/UnityBATemplate">View Demo</a>
-    ·
     <a href="https://github.com/Antkmk/UnityBATemplate/issues">Report Bug</a>
     ·
     <a href="https://github.com/Antkmk/UnityBATemplate/issues">Request Feature</a>
