@@ -10,7 +10,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][Twitter-shield]][Twitter-url]
 [![Facebook][Facebook-shield]][Facebook-url]
-[![OBA][OBA-shield]][OBA-url]
+[![One Bad Ant][OBA-shield]][OBA-url]
 
 <!-- PROJECT LOGO -->
 <br />
