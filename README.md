@@ -10,7 +10,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][Twitter-shield]][Twitter-url]
 [![Facebook][Facebook-shield]][Facebook-url]
-
+[![OBA][OBA-shield]]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -235,3 +235,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=Facebook&colorB=555
 [Facebook-url]: https://www.facebook.com/Onebadant/
 [product-screenshot]: images/screenshot.png
+
+[OBA-shield]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
