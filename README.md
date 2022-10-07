@@ -251,5 +251,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[twitter-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[twitter-url]: /twitter/follow/:antkmk?label=Follow
+[twitter-shield]: https://img.shields.io/twitter/url?color=Black&label=Twitter&logo=Twitter&style=social
+[twitter-url]: https://twitter.com/antkmk
