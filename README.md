@@ -40,10 +40,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Business App?</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#businessapp">Business App?</a>
+    </li>
+    <li>
+      <a href="#whatwhy"The What, Why, Where and How of the Template</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -78,18 +78,20 @@
 
 
 
-### Built With
+## The What, Why, Where and How of the Template
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<p>What I've created : a working app that includes the following features.</p>
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+1. <img align="left" src="images/btn_i_OFF.png"  width="40" height="40">Screen Navigation: ("scenes" in Unity). The ability to navigate to self-contained screens of different information and app features.
+2. Tables: Lists (rows) of rich content (images, text, UI elements)
+3. Feedback & Contact: Send an email, go to a web site.
+4. Photo Library: Ability to select and display a photo from the device's photo gallery
+5. Social Share: Ability to share and post information to social media outlets
+6. Camera View: Stream the device's camera view as a precursor to creating augmented reality features.
+7. GPS Location: Get the device's current location.
+8. Maps: Display maps and markers
+9. Weather: Get and display the current weather forecast for a given GPS coordinate
+10. Database: Initialize and create an SQLite database. Store and retrieve data.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
