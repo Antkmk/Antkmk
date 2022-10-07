@@ -66,7 +66,7 @@
 <!-- BUSINESS APP DEFINITION -->
 ## Business App?
 
-<img src="images/appOnDevice.png" alt="Logo" width="208" height="411" style="float: right; padding-left: 20px;">
+<p><img src="images/appOnDevice.png" alt="Logo" width="208" height="411" style="float: right; padding-left: 20px;"><p>
 
 This is a Unity app development project. I've created a working template for "business-focused" apps that includes a number of features that I use in my apps. You can pick and choose the features that you need and remove the ones you don't.
 
