@@ -230,4 +230,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://www.linkedin.com/in/keithkubarek/
 [product-screenshot]: images/screenshot.png
 [Twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=Twitter&colorB=555
-[Twitter-url]: https://www.linkedin.com/in/keithkubarek/
+[Twitter-url]: https://twitter.com/antkmk
