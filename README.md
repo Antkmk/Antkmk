@@ -103,11 +103,11 @@ Get and display the current weather forecast for a given GPS coordinate
 11. <img align="left" src="images/btn_Database_OFF.png"  width="40" height="40">Database: <br>
 Initialize and create an SQLite database. Store and retrieve data.
 
-<p>There is a larger article with background on why I created this template which you can read on my [One Bad Ant website](http://www.onebadant.com/index.php/oba-articles/295-unitysolar).</p>
+<p>There is a larger article with background on why I created this template which you can read on my <a href="http://www.onebadant.com/index.php/oba-articles/295-unitysolar">One Bad Ant website</a>.</p>
 
 <p>Why I created it: To learn unity, test its abilities, and to create a template to use as a starting point for future Unity app development.</p>
 
-<p>Where you can download: On my [Github repository](https://github.com/Antkmk/UnityBATemplate).</p>
+<p>Where you can download: On my <a href="https://github.com/Antkmk/UnityBATemplate">Github repository</a>.</p>
 
 <p>You'll find documentation outlining the prefabs, scripts, scenes, and resources used in the app. You'll also find a PDF document that diagrams the architecture of the app and its features. </p>
 
