@@ -40,7 +40,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Business App?</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -63,21 +63,18 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- BUSINESS APP DEFINITION -->
+## Business App?
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This is a Unity app development project. I've created a working template for "business-focused" apps that includes a number of features that I use in my apps. You can pick and choose the features that you need and remove the ones you don't.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+The app's UI is functional. There's not a lot (any) pretty elements because this is simply a template. The functionality is all in place and it is a starting point for developing your full-featured app and adding your professional graphics.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+My definition of "business-focused" is an app template that features the management, tracking, and presentation of information rather than game play. See the list of features below.
 
-Use the `BLANK_README.md` to get started.
+I also have card [game architecture](http://www.onebadant.com/index.php/oba-articles/288-gameapppattern) outlining how I built an app using Solar2d. At some point I may build a basic Unity card game template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
