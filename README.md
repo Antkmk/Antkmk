@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/freeStuff.png" alt="Logo" width="80" height="80">
+    <img src="images/freeStuff.png" alt="Logo" width="600" height="300">
   </a>
 
   <h3 align="center">OBA Unity Business App Template</h3>
