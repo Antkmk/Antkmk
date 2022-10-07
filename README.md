@@ -151,9 +151,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-<p>Keith Kubarek<p>
+<p><b>Keith Kubarek</b><p>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+<p>Email: <a href="mailto:ant@onebadant.com">Keith</a></p>
+<p>Github Project: <a href="https://github.com/Antkmk/UnityBATemplate">repository</a></p>
+<p>Twitter: <a href="https://twitter.com/antkmk">@antkmk</a></p>
+<p>One Bad Ant: <a href="https://onebadant.com">web site</a></p>
+<p>One Bad Ant: <a href="https://www.facebook.com/Onebadant/">Facebook page</a></p>
+<p>Keith Kubarek: <a href="https://www.linkedin.com/in/keithkubarek/">Linkedin page</a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
