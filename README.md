@@ -19,7 +19,7 @@
     <img src="images/freeStuff.png" alt="Logo" width="960" height="480">
   </a>
 
-  <h3 align="center">OBA Unity Business App Template</h3>
+  <h3 align="center">One Bad Ant Unity Business App Template</h3>
 
   <p align="center">
     Stay tuned...
