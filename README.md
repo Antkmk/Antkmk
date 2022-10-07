@@ -83,15 +83,15 @@
 <p>What I've created : a working app that includes the following features.</p>
 
 1. <img align="left" src="images/btn_i_OFF.png"  width="40" height="40">Screen Navigation: ("scenes" in Unity). The ability to navigate to self-contained screens of different information and app features.
-2. Tables: Lists (rows) of rich content (images, text, UI elements)
-3. Feedback & Contact: Send an email, go to a web site.
-4. Photo Library: Ability to select and display a photo from the device's photo gallery
-5. Social Share: Ability to share and post information to social media outlets
-6. Camera View: Stream the device's camera view as a precursor to creating augmented reality features.
-7. GPS Location: Get the device's current location.
-8. Maps: Display maps and markers
-9. Weather: Get and display the current weather forecast for a given GPS coordinate
-10. Database: Initialize and create an SQLite database. Store and retrieve data.
+2. <img align="left" src="images/btn_List_OFF.png"  width="40" height="40">Tables: Lists (rows) of rich content (images, text, UI elements)
+3. <img align="left" src="images/btn_Feedback_OFF.png"  width="40" height="40">Feedback & Contact: Send an email, go to a web site.
+4. <img align="left" src="images/btn_Photos_OFF.png"  width="40" height="40">Photo Library: Ability to select and display a photo from the device's photo gallery
+5. <img align="left" src="images/btn_Share_OFF.png"  width="40" height="40">Social Share: Ability to share and post information to social media outlets
+6. <img align="left" src="images/btn_CameraView_OFF.png"  width="40" height="40">Camera View: Stream the device's camera view as a precursor to creating augmented reality features.
+7. <img align="left" src="images/btn_GPS_OFF.png"  width="40" height="40">GPS Location: Get the device's current location.
+8. <img align="left" src="images/btn_Map_OFF.png"  width="40" height="40">Maps: Display maps and markers
+9. <img align="left" src="images/btn_Weather_OFF.png"  width="40" height="40">Weather: Get and display the current weather forecast for a given GPS coordinate
+10. <img align="left" src="images/btn_Weather_OFF.png"  width="40" height="40">Database: Initialize and create an SQLite database. Store and retrieve data.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
