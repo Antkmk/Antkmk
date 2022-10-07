@@ -80,7 +80,7 @@
 
 ## The What, Why, Where and How of the Template
 
-<p>What I've created : a working app that includes the following features.</p>
+<p><b>What</b> I've created : a working app that includes the following features.</p>
 
 1. <img align="left" src="images/btn_i_OFF.png"  width="40" height="40">Screen Navigation: ("scenes" in Unity). <br>The ability to navigate to self-contained screens of different information and app features.
 2. <img align="left" src="images/btn_List_OFF.png"  width="40" height="40">Tables: <br>Lists (rows) of rich content (images, text, UI elements)
