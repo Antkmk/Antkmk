@@ -82,27 +82,27 @@
 
 <p>What I've created : a working app that includes the following features.</p>
 
-1. <img align="left" src="images/btn_i_OFF.png"  width="40" height="40">Screen Navigation: ("scenes" in Unity). 
+1. <img align="left" src="images/btn_i_OFF.png"  width="40" height="40">Screen Navigation: ("scenes" in Unity). <br>
 The ability to navigate to self-contained screens of different information and app features.
-2. <img align="left" src="images/btn_List_OFF.png"  width="40" height="40">Tables: Lists 
-(rows) of rich content (images, text, UI elements)
-3. <img align="left" src="images/btn_Web_OFF.png"  width="40" height="40">Web: 
+2. <img align="left" src="images/btn_List_OFF.png"  width="40" height="40">Tables: <br>
+3. Lists (rows) of rich content (images, text, UI elements)
+3. <img align="left" src="images/btn_Web_OFF.png"  width="40" height="40">Web: <br>
 Ability to display a web page in the app.
-4. <img align="left" src="images/btn_Feedback_OFF.png"  width="40" height="40">Feedback & Contact: 
+4. <img align="left" src="images/btn_Feedback_OFF.png"  width="40" height="40">Feedback & Contact: <br>
 Send an email, go to a web site.
-5. <img align="left" src="images/btn_Photos_OFF.png"  width="40" height="40">Photo Library: 
+5. <img align="left" src="images/btn_Photos_OFF.png"  width="40" height="40">Photo Library: <br>
 Ability to select and display a photo from the device's photo gallery
-6. <img align="left" src="images/btn_Share_OFF.png"  width="40" height="40">Social Share: 
+6. <img align="left" src="images/btn_Share_OFF.png"  width="40" height="40">Social Share: <br>
 Ability to share and post information to social media outlets
-7. <img align="left" src="images/btn_CameraView_OFF.png"  width="40" height="40">Camera View: 
+7. <img align="left" src="images/btn_CameraView_OFF.png"  width="40" height="40">Camera View: <br>
 Stream the device's camera view as a precursor to creating augmented reality features.
-8. <img align="left" src="images/btn_GPS_OFF.png"  width="40" height="40">GPS Location: 
+8. <img align="left" src="images/btn_GPS_OFF.png"  width="40" height="40">GPS Location: <br>
 Get the device's current location.
-9. <img align="left" src="images/btn_Map_OFF.png"  width="40" height="40">Maps: 
+9. <img align="left" src="images/btn_Map_OFF.png"  width="40" height="40">Maps: <br>
 Display maps and markers
-10. <img align="left" src="images/btn_Weather_OFF.png"  width="40" height="40">Weather: 
+10. <img align="left" src="images/btn_Weather_OFF.png"  width="40" height="40">Weather: <br>
 Get and display the current weather forecast for a given GPS coordinate
-11. <img align="left" src="images/btn_Database_OFF.png"  width="40" height="40">Database: 
+11. <img align="left" src="images/btn_Database_OFF.png"  width="40" height="40">Database: <br>
 Initialize and create an SQLite database. Store and retrieve data.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
