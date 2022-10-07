@@ -140,14 +140,22 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Some useful online resources to accompany this template:
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Unity Transitions](https://weeklyhow.com/how-to-make-transitions-in-unity/)
+* [Database Management](https://forum.unity.com/threads/installing-sqlite-on-macos-and-probably-for-windows-unity-2021-1-16.1179430/)
+* [Unity SQL Code Example](https://github.com/robertohuertasm/SQLite4Unity3d)
+* [Configuring Database Plugins](https://www.youtube.com/watch?v=oPEl0mzeYoQ)
+* [GPS Youtube Video Tutorial](https://www.youtube.com/watch?v=ZdyfjJbVvDk)
+* [Unity Location Services](https://docs.unity3d.com/ScriptReference/LocationService.Start.html)
+* [Weather Service](https://graphical.weather.gov)
+* [Download a File and Store Locally](https://docs.unity3d.com/Manual/UnityWebRequest-CreatingDownloadHandlers.html)
+* [XML File parsing - search tutorials for "XML"](https://www.youtube.com/c/KindsonTheTechPro)
+* [Scroll View How To](https://www.youtube.com/watch?v=Q-G-W93jhYc)
+* [Create Table with Rows of Data](https://www.youtube.com/watch?v=hlNaNtApIMk)
+* [UniWebView from Asset Store](https://assetstore.unity.com/packages/tools/network/uniwebview-4-175993)
+* [Camera View](https://csharp.hotexamples.com/examples/UnityEngine/WebCamTexture/-/php-webcamtexture-class-examples.html)
+* [Compass View](https://tutorialsforar.com/create-an-ar-compass-app-using-ar-foundation-and-unity/)
+* [NativeGallery Plugin](https://github.com/yasirkula/UnityNativeGallery)
+* [NativeShare Plugin](https://github.com/yasirkula/UnityNativeShare)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
