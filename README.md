@@ -68,11 +68,11 @@
 
 <p><img style="float:right; padding-left: 20px;" src="images/appOnDevice.png" alt="Logo" width="208" height="411">This is a Unity app development project. I've created a working template for "business-focused" apps that includes a number of features that I use in my apps. You can pick and choose the features that you need and remove the ones you don't.</p>
 
-The app's UI is functional. There's not a lot (any) pretty elements because this is simply a template. The functionality is all in place and it is a starting point for developing your full-featured app and adding your professional graphics.
+<p>The app's UI is functional. There's not a lot (any) pretty elements because this is simply a template. The functionality is all in place and it is a starting point for developing your full-featured app and adding your professional graphics.</p>
 
-My definition of "business-focused" is an app template that features the management, tracking, and presentation of information rather than game play. See the list of features below.
+<p>My definition of "business-focused" is an app template that features the management, tracking, and presentation of information rather than game play. See the list of features below.</p>
 
-I also have card [game architecture](http://www.onebadant.com/index.php/oba-articles/288-gameapppattern) outlining how I built an app using Solar2d. At some point I may build a basic Unity card game template.
+<p>I also have card [game architecture](http://www.onebadant.com/index.php/oba-articles/288-gameapppattern) outlining how I built an app using Solar2d. At some point I may build a basic Unity card game template.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
