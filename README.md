@@ -164,10 +164,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- RESOURCES -->
+## Resources
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Some useful online resources to accompany this template:
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
