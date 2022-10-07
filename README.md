@@ -82,10 +82,8 @@
 
 <p>What I've created : a working app that includes the following features.</p>
 
-1. <img align="left" src="images/btn_i_OFF.png"  width="40" height="40">Screen Navigation: ("scenes" in Unity). <br>
-The ability to navigate to self-contained screens of different information and app features.
-2. <img align="left" src="images/btn_List_OFF.png"  width="40" height="40">Tables: <br>
-3. Lists (rows) of rich content (images, text, UI elements)
+1. <img align="left" src="images/btn_i_OFF.png"  width="40" height="40">Screen Navigation: ("scenes" in Unity). <br>The ability to navigate to self-contained screens of different information and app features.
+2. <img align="left" src="images/btn_List_OFF.png"  width="40" height="40">Tables: <br>Lists (rows) of rich content (images, text, UI elements)
 3. <img align="left" src="images/btn_Web_OFF.png"  width="40" height="40">Web: <br>
 Ability to display a web page in the app.
 4. <img align="left" src="images/btn_Feedback_OFF.png"  width="40" height="40">Feedback & Contact: <br>
