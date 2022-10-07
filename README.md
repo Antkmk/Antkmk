@@ -234,6 +234,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [Twitter-url]: https://twitter.com/antkmk
 [Facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=Facebook&colorB=555
 [Facebook-url]: https://www.facebook.com/Onebadant/
-[OBA-shield]: https://img.shields.io/badge/-One Bad Ant-black.svg?style=for-the-badge&colorB=555
+[OBA-shield]: https://img.shields.io/static/v1?label=One Bad Ant&message=Web Site&colorB=555
 [OBA-url]: https://www.onebadant.com/
 [product-screenshot]: images/screenshot.png
