@@ -236,5 +236,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Facebook-url]: https://www.facebook.com/Onebadant/
 [product-screenshot]: images/screenshot.png
 
-[OBA-shield]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+[OBA-shield]: https://img.shields.io/badge/website-333333?style=for-the-badge&logo=About.me&logoColor=white
 [OBA-url]: https://onebadant.com/
