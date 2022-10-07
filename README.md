@@ -8,8 +8,7 @@
 -->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+[![Twitter][twitter-shield]][twitter-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -252,3 +251,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[twitter-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[twitter-url]: /twitter/follow/:antkmk?label=Follow
