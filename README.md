@@ -97,7 +97,7 @@ Initialize and create an SQLite database. Store and retrieve data.
 ## Built With
 
 <ul>
-  <li>Visual Studio</li>
+  <li>Visual Studio version 17.3.6</li>
   <li>Unity Editor version 2022.1.19</li>
   <li>Xcode 14.0.1</li>
 </ul>
