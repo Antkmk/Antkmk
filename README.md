@@ -86,7 +86,7 @@ Initialize and create an SQLite database. Store and retrieve data.
 
 <p><b>HOW</b> to use the template: The documentation outlines and describes everything that goes into this app. The documentation also includes links to some of the resources, solutions, and "how tos" that I found useful.</p>
 
-<p>Once you've downloaded the app you can run it in the Unity editor, or on an Android or iOS device.</p>
+<p>Once you've downloaded the app you can run it in the Unity editor, or on an Android or iOS device. The template is designed to run in portrait mode, so you should select an appropriate screen dimension.</p>
 
 <p>You can also view or use individual scripts in the repository if you don't want the entire template. The code is free to use and hopefully you find it helpful. </p>
 
