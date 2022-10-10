@@ -181,6 +181,6 @@ Some useful online resources to accompany this template:
 [OBA-shield]: https://img.shields.io/badge/website-555555?style=for-the-badge&logo=About.me&logoColor=white
 [OBA-url]: https://onebadant.com/
 
-[Paypal-shield]: https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+[Paypal-shield]: https://img.shields.io/badge/PayPal-555555?style=for-the-badge&logo=paypal&logoColor=white
 [Paypal-url]: https://www.paypal.com/donate/?hosted_button_id=JC9LWKY2YK252
 
