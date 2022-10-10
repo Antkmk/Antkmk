@@ -96,6 +96,8 @@ Initialize and create an SQLite database. Store and retrieve data.
 
 <p>Most features have been built to run in the Unity editor and on an Android or iOS device.</p>
 
+<img align="left" src="images/missingAssets.png"  width="367" height="511">
+
 <ol>
 <li>Download the repository. The app's main codebase is in the "OBAUnityTemplate" folder.</li>
 <li>When you launch the project you may see a screen shot asking if you want to "Enter Safe Mode?". Press the "Ignore" button (see the image to the right).</li>
