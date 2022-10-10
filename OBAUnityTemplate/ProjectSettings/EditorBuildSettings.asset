@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/homeScene.unity
+    guid: ca39d8af8fce44b54ab945d02dd6c5f8
+  - enabled: 1
+    path: Assets/Scenes/appInfoScene.unity
+    guid: d2358437cb6be4533ad6db4f104e46d3
+  - enabled: 1
+    path: Assets/Scenes/appFeedbackScene.unity
+    guid: 70989e8ef93f341148d900606e21f5fb
+  - enabled: 1
+    path: Assets/Scenes/listScene.unity
+    guid: 98413f6bdf84a4191ac5209d7019a23a
+  - enabled: 1
+    path: Assets/Scenes/rowDetailScene.unity
+    guid: 9c1cf1f992bc444b7ad43019e6697727
+  - enabled: 1
+    path: Assets/Scenes/cameraViewScene.unity
+    guid: cad430da4d7b8445a83ee624c9dfcd3b
+  - enabled: 1
+    path: Assets/Scenes/webViewScene.unity
+    guid: 172a53e8182ec466ca2f85cc51b965b9
+  - enabled: 1
+    path: Assets/Scenes/gpsLocationScene.unity
+    guid: 3d0ed5f8d66124d4b9b11ec6c3f12604
+  - enabled: 1
+    path: Assets/Scenes/orientationViewScene.unity
+    guid: 2e323e81b43e94989a1a6708952d1810
+  - enabled: 1
+    path: Assets/Scenes/mapViewScene.unity
+    guid: 48bcf021d3cab452ab385e5b761b1c92
+  - enabled: 1
+    path: Assets/Scenes/weatherScene.unity
+    guid: 665d4562134af4181b922c7d65f3da32
+  - enabled: 1
+    path: Assets/Scenes/photoGalleryScene.unity
+    guid: 22d2365532ecf420e8cf4bbe19ece3b8
+  - enabled: 1
+    path: Assets/Scenes/ShareScene.unity
+    guid: 7f21f540f33c04b4a8e8b107dcaacb55
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ac995704640ea408fba6cea3c2022923, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: f6be39c8b65014255a817f13a1499a11, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 0553ebae2dcf84db8aa1db8124052548, type: 2}
