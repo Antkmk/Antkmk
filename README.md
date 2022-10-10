@@ -84,11 +84,25 @@ Initialize and create an SQLite database. Store and retrieve data.
 
 <p>You'll find documentation outlining the prefabs, scripts, scenes, and resources used in the app. You'll also find a PDF document that diagrams the architecture of the app and its features. </p>
 
-<p><b>HOW</b> to use the template: The documentation outlines and describes everything that goes into this app. The documentation also includes links to some of the resources, solutions, and "how tos" that I found useful.</p>
+<p><b>HOW</b> to use the template: The two PDF documents, one a written outline of all the prefabs, screens and scripts, the other an architectural diagram describe everything that goes into this app. The documentation also includes links to some of the resources, solutions, and "how tos" that I found useful.</p>
 
-<p>Once you've downloaded the app you can run it in the Unity editor, or on an Android or iOS device. The template is designed to run in portrait mode, so you should select an appropriate screen dimension.</p>
+<p>You can view or use individual scripts in the repository if you don't want the entire template. The code is free to use and I hope you find it helpful. </p>
 
-<p>You can also view or use individual scripts in the repository if you don't want the entire template. The code is free to use and hopefully you find it helpful. </p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- INSTALLATION -->
+## Installation
+
+<p>Most features have been built to run in the Unity editor and on an Android or iOS device.</p>
+
+<ol>
+<li>Download the repository. The app's main codebase is in the "OBAUnityTemplate" folder.</li>
+<li>When you launch the project you may see a screen shot asking if you want to "Enter Safe Mode?". Press the "Ignore" button (see the image to the right).</li>
+<li>You will see messages in the Console about missing "UniWebView". This is because this is a paid asset that I can not include in the template. To get rid of these message you can either (1) <a href="https://assetstore.unity.com/packages/tools/network/uniwebview-5-229334">purchase the UniWebView plugin</a> from the Unity Asset Store</li> or (2) you can delete the "webViewScene" and the "mapViewScene" in the project's "Scenes" folder and the "loadMap" script in the project's "Scripts" folder.
+<li>The template is designed to run in portrait mode, so you should select an appropriate screen dimension.</li>
+<li>You should be all set at this point to build and run the app. If something doesn't work or you find an issue, <a href="mailto:ant@onebadant.com">let me know</a>!</li>
+</ol>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
