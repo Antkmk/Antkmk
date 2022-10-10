@@ -11,6 +11,7 @@
 [![Twitter][Twitter-shield]][Twitter-url]
 [![Facebook][Facebook-shield]][Facebook-url]
 [![OBA][OBA-shield]][OBA-url]
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 <!-- PROJECT LOGO -->
 <br />
