@@ -43,7 +43,7 @@
 
 <p>My definition of "business-focused" is an app template that features the management, tracking, and presentation of information rather than game play. See the list of features below.</p>
 
-<p>I also have card [game architecture](http://www.onebadant.com/index.php/oba-articles/288-gameapppattern) outlining how I built an app using Solar2d. At some point I may build a basic Unity card game template.</p>
+<p>I also have <a href="http://www.onebadant.com/index.php/oba-articles/288-gameapppattern">card game architecture</a> outlining how I built an app using Solar2d. At some point I may build a basic Unity card game template.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ Initialize and create an SQLite database. Store and retrieve data.
 
 <p>You'll find documentation outlining the prefabs, scripts, scenes, and resources used in the app. You'll also find a PDF document that diagrams the architecture of the app and its features. </p>
 
-<p><b>HOW</b> to use the template: The documentation outlines and describes everything that goes into this app. The documentation also includes links to some of the resources I used to find some of the solutions and "how tos" that I use.</p>
+<p><b>HOW</b> to use the template: The documentation outlines and describes everything that goes into this app. The documentation also includes links to some of the resources, solutions, and "how tos" that I found useful.</p>
 
 <p>Once you've downloaded the app you can run it in the Unity editor, or on an Android or iOS device.</p>
 
