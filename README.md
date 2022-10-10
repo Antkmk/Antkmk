@@ -94,9 +94,9 @@ Initialize and create an SQLite database. Store and retrieve data.
 <!-- INSTALLATION -->
 ## Installation
 
-<p>Most features have been built to run in the Unity editor and on an Android or iOS device.</p>
-
 <img align="right" src="images/missingAssets.png"  width="298" height="409">
+
+<p>Most features have been built to run in the Unity editor and on an Android or iOS device.</p>
 
 <ol>
 <li>Download the repository. The app's main codebase is in the "OBAUnityTemplate" folder.</li>
