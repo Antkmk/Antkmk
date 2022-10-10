@@ -114,6 +114,8 @@ Initialize and create an SQLite database. Store and retrieve data.
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+<a href="https://www.paypal.com/donate/?hosted_button_id=JC9LWKY2YK252">Test</a>
+
 <!-- LICENSE -->
 ## License
 
