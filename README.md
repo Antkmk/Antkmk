@@ -108,6 +108,8 @@ Initialize and create an SQLite database. Store and retrieve data.
 
 <p>Cheers! ~Keith</p>
 
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JC9LWKY2YK252)
+
 
 <!-- LICENSE -->
 ## License
