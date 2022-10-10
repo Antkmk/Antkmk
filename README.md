@@ -11,7 +11,8 @@
 [![Twitter][Twitter-shield]][Twitter-url]
 [![Facebook][Facebook-shield]][Facebook-url]
 [![OBA][OBA-shield]][OBA-url]
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+[![Paypal][Paypal-shield]][Paypal-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -179,3 +180,7 @@ Some useful online resources to accompany this template:
 
 [OBA-shield]: https://img.shields.io/badge/website-555555?style=for-the-badge&logo=About.me&logoColor=white
 [OBA-url]: https://onebadant.com/
+
+[Paypal-shield]: https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+[Paypal-url]: https://www.paypal.com/donate/?hosted_button_id=JC9LWKY2YK252
+
