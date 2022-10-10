@@ -116,6 +116,7 @@ Initialize and create an SQLite database. Store and retrieve data.
   <li>Xcode 14.0.1</li>
 </ul>
 
+
 ## Your Support Appreciated!
 
 <p>You can download the code and documentation and use them for free. Although if you find this useful, donations can be made via Paypal and are appreciated.</p>
@@ -133,7 +134,6 @@ Initialize and create an SQLite database. Store and retrieve data.
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
