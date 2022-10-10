@@ -104,9 +104,9 @@ Initialize and create an SQLite database. Store and retrieve data.
 
 ## Your Support Appreciated!
 
-<p>You can download it for free although if you find it useful, donations can be made via Paypal and are appreciated.</p>
+<p>You can download the code and documentation and use them for free. Although if you find this useful, donations can be made via Paypal and are appreciated.</p>
 
-<p>Also, if you find any broken features, have requests for additional features, or have constructive feedback, let me know!</p>
+<p>If you have questions, find broken features, have requests for additional features, or have constructive feedback, let me know!</p>
 
 <p>Cheers! ~Keith</p>
 
