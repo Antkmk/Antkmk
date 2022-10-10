@@ -101,7 +101,7 @@ Initialize and create an SQLite database. Store and retrieve data.
 <li>When you launch the project you may see a screen shot asking if you want to "Enter Safe Mode?". Press the "Ignore" button (see the image to the right).</li>
 <li>You will see messages in the Console about missing "UniWebView". This is because this is a paid asset that I can not include in the template. To get rid of these message you can either (1) <a href="https://assetstore.unity.com/packages/tools/network/uniwebview-5-229334">purchase the UniWebView plugin</a> from the Unity Asset Store</li> or (2) you can delete the "webViewScene" and the "mapViewScene" in the project's "Scenes" folder and the "loadMap" script in the project's "Scripts" folder.
 <li>The template is designed to run in portrait mode, so you should select an appropriate screen dimension.</li>
-<li>You should be all set at this point to build and run the app. If something doesn't work or you find an issue, <a href="mailto:ant@onebadant.com">let me know</a>!</li>
+<li>You should be all set at this point to build and run the app. If something doesn't work, you find an issue, or need clearer instructions, <a href="mailto:ant@onebadant.com">let me know</a>!</li>
 </ol>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
