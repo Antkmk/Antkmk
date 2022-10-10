@@ -86,7 +86,7 @@ Initialize and create an SQLite database. Store and retrieve data.
 
 <p>Once you've downloaded the app you can run it in the Unity editor, or on an Android or iOS device.</p>
 
-<p>You can also look at and use individual scripts and examine them first in the repository. The code is free to use and hopefully you find it helpful. </p>
+<p>You can also view or use individual scripts in the repository if you don't want the entire template. The code is free to use and hopefully you find it helpful. </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,13 +102,17 @@ Initialize and create an SQLite database. Store and retrieve data.
 
 ## Your Support Appreciated!
 
-<p>You can download it for free although if you find it useful, donations are appreciated.
-Donations welcomed using PayPal.</p>
+<p>You can download it for free although if you find it useful, donations can be made via Paypal and are appreciated.</p>
 
 <p>Also, if you find any broken features, have requests for additional features, or have constructive feedback, let me know!</p>
 
 <p>Cheers! ~Keith</p>
 
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="JC9LWKY2YK252" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
 <!-- LICENSE -->
 ## License
