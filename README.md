@@ -45,8 +45,6 @@
 
 <p>My definition of "business-focused" is an app template that features the management, tracking, and presentation of information rather than game play. See the list of features below.</p>
 
-<p>I also have <a href="http://www.onebadant.com/index.php/oba-articles/288-gameapppattern">card game architecture</a> outlining how I built an app using Solar2d. At some point I may build a basic Unity card game template.</p>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
